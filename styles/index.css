@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+/*
+	CSS Document for the index.html web page
+	Script date: Oct 11, 2017;
+	Developed by: Tung Pham IPD12;
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#container {
+	width: 80%;
+	margin: 0 auto;
+}
